@@ -1,3 +1,11 @@
+# Fork
+
+This fork adds an option to decrypt multiple drives on boot, for example to decrypt a software raid (dm-raid, btrfs, lvm, etc.) 
+
+It is currently for Debian and TPM 1.2 only. You habe been warned!
+
+For other systems use the upstream repository: https://github.com/noahbliss/mortar
+
 # Mortar  
 Framework to join Linux's physical security bricks. Mortar is essentially Linux-native TPM-backed Bitlocker.  
 
